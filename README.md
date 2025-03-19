@@ -4,7 +4,11 @@
 
 🚀 Funcionalidades
 
-✅ Agregar nombres a la lista.✅ Evitar nombres duplicados (independiente de mayúsculas y minúsculas).✅ Permitir nombres distintos si hay una diferencia significativa (Ej: "Paulo" y "Paulo A").✅ Mostrar la lista de amigos agregados.✅ Realizar un sorteo aleatorio y mostrar el nombre del amigo secreto.
+  ✅ Agregar nombres a la lista.
+  ✅ Evitar nombres duplicados (independiente de mayúsculas y minúsculas).
+  ✅ Permitir nombres distintos si hay una diferencia significativa (Ej: "Paulo" y "Paulo A").
+  ✅ Mostrar la lista de amigos agregados.
+  ✅ Realizar un sorteo aleatorio y mostrar el nombre del amigo secreto.
 
 📸 Capturas de pantalla
 
@@ -18,40 +22,44 @@
 
 📜 Instrucciones de uso
 
-1️⃣ Clona este repositorio o descarga los archivos.
+   1️⃣ Clona este repositorio o descarga los archivos.
 
- git clone https://github.com/Slappy10/desafio-amigo-secreto.git
+       git clone https://github.com/Slappy10/desafio-amigo-secreto.git
 
-2️⃣ Abre el archivo index.html en tu navegador.
+  2️⃣ Abre el archivo index.html en tu navegador.
 
-3️⃣ Ingresa los nombres en el campo de texto y presiona "Añadir".
+  3️⃣ Ingresa los nombres en el campo de texto y presiona "Añadir".
 
-4️⃣ Una vez agregados los participantes, presiona "Sortear amigo" para elegir al amigo secreto. 🎉
+  4️⃣ Una vez agregados los participantes, presiona "Sortear amigo" para elegir al amigo secreto. 🎉
 
 📂 Estructura del proyecto
 
-📂 amigo-secreto
- ├── 📂 assets          # Recursos multimedia (imágenes, íconos, etc.)
- │   ├── 🖼️ amigo-secreto.png
- │   ├── 🖼️ image-1.png
- │   ├── 🖼️ image.png
- │   ├── 🖼️ play_circle_outline.png
- ├── 📄 app.js          # Lógica del programa
- ├── 📄 index.html      # Interfaz principal
- ├── 📄 README.md       # Documentación
- ├── 📄 styles.css      # Estilos (opcional)
+  📂 amigo-secreto
+ 
+    ├── 📂 assets # Recursos multimedia (imágenes, íconos, etc.)
+    │   ├── 🖼️ amigo-secreto.png
+    │   ├── 🖼️ image-1.png
+    │   ├── 🖼️ image.png
+    │   ├── 🖼️ play_circle_outline.png
+    ├── 📄 app.js      # Lógica del programa
+    ├── 📄 index.html  # Interfaz principal
+    ├── 📄 README.md   # Documentación
+    ├── 📄 styles.css  # Estilos
 
 🛠 Tecnologías utilizadas
 
-HTML
+   HTML
 
-CSS 
+   CSS 
 
-JavaScript 
+   JavaScript 
 
 📌 Mejoras futuras
 
-🔹 Mejorar la interfaz con CSS avanzado.🔹 Permitir exportar la lista de participantes.🔹 Agregar una opción para reiniciar la lista.🔹 Implementar una versión en React o Vue.js.
+  🔹 Mejorar la interfaz con CSS avanzado.
+  🔹 Permitir exportar la lista de participantes.
+  🔹 Agregar una opción para reiniciar la lista.
+  🔹 Implementar una versión en React o Vue.js.
 
 🎯 Contribuciones
 
